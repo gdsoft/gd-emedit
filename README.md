@@ -1,2 +1,2 @@
-# gdsoft-paredit
-The gdsoft-paredit was largely inspired by awesome-pair.
+# gd-emedit
+The gd-emedit was largely inspired by awesome-pair.
